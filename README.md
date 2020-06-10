@@ -1,5 +1,5 @@
 # git-pusher.sh
-This script aims to facilitate to rapidly and regularly update your Git repo
+This script aims to facilitate to rapidly and regularly update your Git repo.
 
 ## How to use it
 * Copy the script to the folder to synchronise
